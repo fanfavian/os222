@@ -1,14 +1,14 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By Favian Naufal</span>
 <br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[HOME](https://fanfavian.github.io/os222/) ---
+[LINKS](https://fanfavian.github.io/os222/LINKS/) ---
+[TIPS](https://fanfavian.github.io/os222/TIPS/) ---
+[PUBLIC KEY](https://fanfavian.github.io/os222/TXT/mypubkey.txt) ---
+[LOG](https://fanfavian.github.io/os222/TXT/mylog.txt)) ---
 [TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB](https://github.com/fanfavian/os222/)
 <br>
 <hr>
 
@@ -17,6 +17,6 @@ This is the way!<br>
 
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; 2022 --- Favian Naufal --- Version: {{ site.version }}.
 <hr>
 <br>
