@@ -1,28 +1,42 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By Favian Naufal</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
-[HOME](https://fanfavian.github.io/os222/) ---
-[LINKS](https://fanfavian.github.io/os222/LINKS) ---
-[TIPS](https://fanfavian.github.io/os222/TIPS/) ---
-[LOG](https://fanfavian.github.io/os222/TXT/mylog.txt) ---
-[TARBALL](https://os.vlsm.org/Log/fanfavian.tar.bz2.txt) ---
-[GITHUB](https://github.com/fanfavian/os222/)
+[HOME]({{ site.baseurl }}/) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[TIPS]({{ site.baseurl }}/TIPS/) ---
+[PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[TARBALL](SandBox/cbkadal.tar.xz) ---
+[GITHUB]({{ site.githublink }})
 <br>
 <hr>
 
 # LINKS
 
-1. [One](https://linuxopsys.com/topics/basic-linux-commands)<br>
-Basic Linux commands, basically
-This one helped me a lot who basically knows nothing about linux.
+1. [Basic Linux Commands](https://linuxopsys.com/topics/basic-linux-commands)<br>
+A collection of basic Linux commands with explanations and a showcase of their usage on every one of them.<br> 
+This helped me a lot for someone who used to know nothing about linux.
 
-2. [Two](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
-Markdown cheatsheet, the first 2 weeks of assignments involves a lot of markdown files
+2. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
+A cheatsheet for making a markdown file. The content of this article is quite brief which makes them easier to navigate which part you are trying to find.
+
+3. [Basic Syntax for Markdown](https://www.markdownguide.org/basic-syntax/)<br>
+An articel for further explanations and usage for each markdown elements.<br>
+Added with tips on what to do and not to do.
+
+4. [Secure Shell (SSH)](https://www.techtarget.com/searchsecurity/definition/Secure-Shell)<br>
+An article on the definition of Secure Shell, or SSH.<br>
+Including a brief explanations on the usage, the history, and the implementations of SSH, along with a few basic commands.
+
+5. [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)<br>
+A cheatsheet of basic commands for visual editor (vi). <br>
+Along with their each respective brief explanations.
+
 
 <br>
 <hr>
-&copy; 2022 --- Favian Naufal --- Version: 0001a-12-09-2022.
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
