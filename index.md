@@ -6,7 +6,7 @@
 [LINKS](https://fanfavian.github.io/os222/LINKS/) ---
 [TIPS](https://fanfavian.github.io/os222/TIPS/) ---
 [PUBLIC KEY](https://fanfavian.github.io/os222/TXT/mypubkey.txt) ---
-[LOG](https://fanfavian.github.io/os222/TXT/mylog.txt)) ---
+[LOG](https://fanfavian.github.io/os222/TXT/mylog.txt) ---
 [TARBALL](SandBox/cbkadal.tar.xz) ---
 [GITHUB](https://github.com/fanfavian/os222/)
 <br>
