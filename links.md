@@ -1,15 +1,15 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By Favian Naufal</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
-[HOME](https://fanfavian.github.io/os222/) ---
-[LINKS](https://fanfavian.github.io/os222/LINKS/) ---
-[TIPS](https://fanfavian.github.io/os222/TIPS/) ---
-[PUBLIC KEY](https://fanfavian.github.io/os222/TXT/mypubkey.txt) ---
-[LOG](https://fanfavian.github.io/os222/TXT/mylog.txt) ---
-[TARBALL](https://os.vlsm.org/Log/fanfavian.tar.bz2.txt) ---
-[GITHUB](https://github.com/fanfavian/os222/)
+[HOME]({{ site.baseurl }}/) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[TIPS]({{ site.baseurl }}/TIPS/) ---
+[PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[TARBALL]({{ site.tarball }}) ---
+[GITHUB]({{ site.githublink }})
 <br>
 <hr>
 
@@ -37,6 +37,6 @@ Along with their each respective brief explanations.
 
 <br>
 <hr>
-&copy; 2022 --- Favian Naufal --- Version: {{ site.version }}.
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>

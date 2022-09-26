@@ -1,0 +1,13 @@
+version:	"0003--26-Sep-2022"
+copyright:	"2022"
+title:		"OS222: Operating Systems 2022-2"
+author:		"Favian Naufal"
+githublink:     "https://github.com/fanfavian/os222"
+myloglink:	"/TXT/mylog.txt"
+mypublickey:	"/TXT/mypubkey.txt"
+tarball:	"https://os.vlsm.org/Log/fanfavian.tar.bz2.txt"
+encoding:	UTF-8
+markdown:	kramdown
+input:		GFM
+hard_wrap:	false
+github:		[metadata]
