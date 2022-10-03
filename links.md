@@ -34,6 +34,12 @@ Including a brief explanations on the usage, the history, and the implementation
 A cheatsheet of basic commands for visual editor (vi). <br>
 Along with their each respective brief explanations.
 
+6. [Simple Makefile guide](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)<br>
+A simple tutorial for making a Makefile.<br>
+Follows multiple alternatives on how to make a Makefile to organize (including compiling) one or multiple codes.
+
+7. [Tutorial video for Makefile](https://www.youtube.com/watch?v=aw9wHbFTnAQ)<br>
+A video tutorial on how to organize one or multiple codes using Makefile.
 
 <br>
 <hr>
