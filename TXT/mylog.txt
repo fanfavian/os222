@@ -89,3 +89,17 @@ ZCZC W05 120 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W05 240 L70 Studying for other courses.
 ZCZC W05 50 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W05 150 L81 Listening: Radio, Music, etc.
+ZCZC W06 60 L00 General, etc.
+ZCZC W06 60 L01 SCELE/Discord related
+ZCZC W06 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 10 L04 GitHub Pages related
+ZCZC W06 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 300 L16 Assignment #06
+ZCZC W06 20 L25 C-language including Make.
+ZCZC W06 10 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W06 20 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W06 30 L41 TXT/mylog.txt related.
+ZCZC W06 20 L43 TXT/myrank.txt related, including peer review.
+ZCZC W06 10 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W06 480 L70 Studying for other courses.
+ZCZC W06 180 L81 Listening: Radio, Music, etc.
