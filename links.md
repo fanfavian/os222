@@ -23,7 +23,7 @@ This helped me a lot for someone who used to know nothing about linux.
 A cheatsheet for making a markdown file. The content of this article is quite brief which makes them easier to navigate which part you are trying to find.
 
 3. [Basic Syntax for Markdown](https://www.markdownguide.org/basic-syntax/)<br>
-An articel for further explanations and usage for each markdown elements.<br>
+An article for further explanations and usage for each markdown elements.<br>
 Added with tips on what to do and not to do.
 
 4. [Secure Shell (SSH)](https://www.techtarget.com/searchsecurity/definition/Secure-Shell)<br>
@@ -35,12 +35,15 @@ A cheatsheet of basic commands for visual editor (vi). <br>
 Along with their each respective brief explanations.
 
 6. [Simple Makefile guide](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)<br>
-A simple tutorial for making a Makefile.<br>
+A simple tutorial on making a Makefile.<br>
 Follows multiple alternatives on how to make a Makefile to organize (including compiling) one or multiple codes.
 
 7. [Tutorial video for Makefile](https://www.youtube.com/watch?v=aw9wHbFTnAQ)<br>
 A video tutorial on how to organize one or multiple codes using Makefile.
 
+8. [Copying files using scp command](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)<br>
+An article on using scp command to copy file(s). with explanations, syntax, and further details regarding possible options to use,<br>
+for possible situations like copying directories recursively, to copying with preserving the metadata of the file.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

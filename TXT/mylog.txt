@@ -103,3 +103,17 @@ ZCZC W06 20 L43 TXT/myrank.txt related, including peer review.
 ZCZC W06 10 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W06 480 L70 Studying for other courses.
 ZCZC W06 180 L81 Listening: Radio, Music, etc.
+ZCZC W07 120 L00 General, etc.
+ZCZC W07 60 L01 SCELE/Discord related
+ZCZC W07 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W07 10 L04 GitHub Pages related
+ZCZC W07 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 270 L17 Assignment #07
+ZCZC W07 30 L25 C-language including Make.
+ZCZC W07 10 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W07 180 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W07 20 L41 TXT/mylog.txt related.
+ZCZC W07 20 L43 TXT/myrank.txt related, including peer review.
+ZCZC W07 25 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W07 900 L70 Studying for other courses.
+ZCZC W07 200 L81 Listening: Radio, Music, etc.
